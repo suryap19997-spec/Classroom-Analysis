@@ -102,7 +102,7 @@ It was developed as a **pilot study** to compare two types of teaching modules �
 Data Analytics & AI Enthusiast | Educational Data Science
 📧 [suryap19997@gmail.com]
 🌐 [[LinkedIn profile link](https://www.linkedin.com/in/surya-prakash-a8464420b/)]
-[[Project Report]([https://www.linkedin.com/in/surya-prakash-a8464420b/](https://docs.google.com/document/d/1-esHeOjXnePuFSSibvj9DLUPaWkNBT_Yi5Ol11yAmLE/edit?usp=sharing))]
+[[Project Report]([https://www.linkedin.com/in/surya-prakash-a8464420b/](https://docs.google.com/document/d/1-esHeOjXnePuFSSibvj9DLUPaWkNBT_Yi5Ol11yAmLE/edit?usp=sharing)]
 
 ---
 

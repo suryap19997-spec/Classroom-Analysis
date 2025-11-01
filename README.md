@@ -98,12 +98,12 @@ It was developed as a **pilot study** to compare two types of teaching modules �
 
 ## 🪪 Author
 
-**Surya Prakash**
-Data Analytics & AI Enthusiast | Educational Data Science
-📧 [suryap19997@gmail.com]
-🌐 [[LinkedIn profile link](https://www.linkedin.com/in/surya-prakash-a8464420b/)]
-[[Project Report]([https://www.linkedin.com/in/surya-prakash-a8464420b/](https://docs.google.com/document/d/1-esHeOjXnePuFSSibvj9DLUPaWkNBT_Yi5Ol11yAmLE/edit?usp=sharing)]
+**Surya Prakash**  
+_Data Analytics & AI Enthusiast | Educational Data Science_  
 
+📧 **Email:** [suryap19997@gmail.com](mailto:suryap19997@gmail.com)  
+🌐 **LinkedIn:** [linkedin.com/in/surya-prakash-a8464420b](https://www.linkedin.com/in/surya-prakash-a8464420b/)  
+📄 **Project Report:** [View Report on Google Docs](https://docs.google.com/document/d/1-esHeOjXnePuFSSibvj9DLUPaWkNBT_Yi5Ol11yAmLE/edit?usp=sharing)
 ---
 
 ## 🏷 Tags
